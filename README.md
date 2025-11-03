@@ -42,7 +42,7 @@
 |:--|:--|:--|
 | [**Bean & Bloom ☕**](https://github.com/<your-username>/bean-and-bloom) | Web-based coffee shop management platform. | React, Node.js, MySQL |
 | [**Tyre Management System 🛞**](https://github.com/Anjanaaberathna01/tiremanage) | Fleet & tyre tracking with reports and analytics. | Laravel, PHP, MySQL |
-| [**Crypto Hashing Lab 🔐**](https://github.com/<your-username>/crypto-hash-lab) | Hands-on cryptography lab exploring hash functions. | Python |
+| [**Beacon Villa 🔐**](https://github.com/Anjanaaberathna01/Beacon_villa) | Hands-on cryptography lab exploring hash functions. | Laravel, PHP, MySQL |
 | [**Digital Forensics Toolkit 🕵️**](https://github.com/<your-username>/forensics-tools) | Analyze digital evidence and metadata efficiently. | Python, Flask |
 
 > 💼 *See all my work → [github.com/Anjanaaberathna01?tab=repositories](https://github.com/Anjanaaberathna01?tab=repositories)*
